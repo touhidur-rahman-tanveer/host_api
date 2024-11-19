@@ -1,11 +1,12 @@
 {
-    "company_name": "Hudai Company",
-    "designation": "Software Engineer",
-    "job_requirements": "Bachelor's in Computer Science, 3+ years of experience in web development.",
-    "location": "San Jose, CA",
-    "salary_range": "$85,000 - $110,000 per year",
-    "skills_needed": ["JavaScript", "Python", "React", "Node.js"],
-    "company_address": "123 Innovation Blvd, San Jose, CA, 95112",
-    "corporate_email": "jobs@techsavvy.com",
-    "company_logo": "https://example.com/logos/techsavvy.png"
+    "id": "2",
+    "company_name": "GreenLeaf Landscapes",
+    "designation": "Landscape Architect",
+    "job_requirements": "Degree in Landscape Architecture, 2+ years of experience in design projects.",
+    "location": "Seattle, WA",
+    "salary_range": "$60,000 - $75,000 per year",
+    "skills_needed": ["AutoCAD", "SketchUp", "Creativity", "Project Management"],
+    "company_address": "678 Nature Lane, Seattle, WA, 98101",
+    "corporate_email": "hr@greenleaf.com",
+    "company_logo": "https://i.ibb.co.com/c6gb7wR/greenleaf-logo-black-larger.jpg"
   }
