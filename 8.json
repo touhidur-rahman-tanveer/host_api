@@ -1,0 +1,12 @@
+{
+    "id": "8",
+    "company_name": "GlobeTrotter Travels",
+    "designation": "Travel Consultant",
+    "job_requirements": "3+ years of travel planning experience, knowledge of global destinations.",
+    "location": "Orlando, FL",
+    "salary_range": "$40,000 - $55,000 per year",
+    "skills_needed": ["Customer Service", "Itinerary Planning", "Sales"],
+    "company_address": "456 Adventure Way, Orlando, FL, 32801",
+    "corporate_email": "careers@globetrotter.com",
+    "company_logo": "https://i.ibb.co.com/mXCbBJK/images-1.png"
+  }
