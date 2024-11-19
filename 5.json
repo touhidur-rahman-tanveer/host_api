@@ -1,0 +1,12 @@
+{
+    "id": "5",
+    "company_name": "Artistry Co.",
+    "designation": "Graphic Designer",
+    "job_requirements": "Bachelor's in Graphic Design, strong portfolio required.",
+    "location": "Los Angeles, CA",
+    "salary_range": "$60,000 - $80,000 per year",
+    "skills_needed": ["Adobe Suite", "Creativity", "Time Management"],
+    "company_address": "567 Design Street, Los Angeles, CA, 90001",
+    "corporate_email": "designs@artistryco.com",
+    "company_logo": "https://i.ibb.co.com/HY82gx2/images.png"
+  }
