@@ -1,5 +1,5 @@
-
-  {
+{
+    "id": "2",
     "company_name": "GreenLeaf Landscapes",
     "designation": "Landscape Architect",
     "job_requirements": "Degree in Landscape Architecture, 2+ years of experience in design projects.",
@@ -8,5 +8,5 @@
     "skills_needed": ["AutoCAD", "SketchUp", "Creativity", "Project Management"],
     "company_address": "678 Nature Lane, Seattle, WA, 98101",
     "corporate_email": "hr@greenleaf.com",
-    "company_logo": "https://example.com/logos/greenleaf.png"
+    "company_logo": "https://i.ibb.co.com/c6gb7wR/greenleaf-logo-black-larger.jpg"
   }
