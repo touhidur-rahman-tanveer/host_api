@@ -1,0 +1,11 @@
+{
+    "company_name": "Hudai Company",
+    "designation": "Software Engineer",
+    "job_requirements": "Bachelor's in Computer Science, 3+ years of experience in web development.",
+    "location": "San Jose, CA",
+    "salary_range": "$85,000 - $110,000 per year",
+    "skills_needed": ["JavaScript", "Python", "React", "Node.js"],
+    "company_address": "123 Innovation Blvd, San Jose, CA, 95112",
+    "corporate_email": "jobs@techsavvy.com",
+    "company_logo": "https://example.com/logos/techsavvy.png"
+  }
