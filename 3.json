@@ -1,12 +1,12 @@
 {
-    "id": "2",
-    "company_name": "GreenLeaf Landscapes",
-    "designation": "Landscape Architect",
-    "job_requirements": "Degree in Landscape Architecture, 2+ years of experience in design projects.",
-    "location": "Seattle, WA",
-    "salary_range": "$60,000 - $75,000 per year",
-    "skills_needed": ["AutoCAD", "SketchUp", "Creativity", "Project Management"],
-    "company_address": "678 Nature Lane, Seattle, WA, 98101",
-    "corporate_email": "hr@greenleaf.com",
-    "company_logo": "https://i.ibb.co.com/c6gb7wR/greenleaf-logo-black-larger.jpg"
+    "id": "3",
+    "company_name": "BrightPath Consulting",
+    "designation": "Business Analyst",
+    "job_requirements": "Bachelor's in Business Administration, 2+ years of business analysis experience.",
+    "location": "New York, NY",
+    "salary_range": "$80,000 - $100,000 per year",
+    "skills_needed": ["Data Analysis", "Problem Solving", "Communication"],
+    "company_address": "789 Enterprise Blvd, New York, NY, 10001",
+    "corporate_email": "analysts@brightpath.com",
+    "company_logo": "https://i.ibb.co.com/BKqmFt2/bpc-transparent-YNqy-ED0-Va-Gc-Bqwk-X.jpg"
   }
