@@ -1,0 +1,12 @@
+{
+    "id": "10",
+    "company_name": "EduNext Academy",
+    "designation": "Math Teacher",
+    "job_requirements": "Degree in Mathematics or Education, teaching certification preferred.",
+    "location": "Boston, MA",
+    "salary_range": "$50,000 - $70,000 per year",
+    "skills_needed": ["Classroom Management", "Lesson Planning", "Patience"],
+    "company_address": "123 Knowledge Lane, Boston, MA, 02108",
+    "corporate_email": "teachers@edunext.com",
+    "company_logo": "https://i.ibb.co.com/GHSTmF0/images-2.png"
+  }
