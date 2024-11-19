@@ -9,7 +9,7 @@
     "skills_needed": ["JavaScript", "Python", "React", "Node.js"],
     "company_address": "123 Innovation Blvd, San Jose, CA, 95112",
     "corporate_email": "jobs@techsavvy.com",
-    "company_logo": "https://example.com/logos/techsavvy.png"
+    "company_logo": "https://i.ibb.co.com/1fDTBqC/techsavvy-LOGO.jpg"
   },
   {
     "id": "2",
@@ -21,7 +21,7 @@
     "skills_needed": ["AutoCAD", "SketchUp", "Creativity", "Project Management"],
     "company_address": "678 Nature Lane, Seattle, WA, 98101",
     "corporate_email": "hr@greenleaf.com",
-    "company_logo": "https://example.com/logos/greenleaf.png"
+    "company_logo": "https://i.ibb.co.com/c6gb7wR/greenleaf-logo-black-larger.jpg"
   },
   {
     "id": "3",
@@ -33,7 +33,7 @@
     "skills_needed": ["Data Analysis", "Problem Solving", "Communication"],
     "company_address": "789 Enterprise Blvd, New York, NY, 10001",
     "corporate_email": "analysts@brightpath.com",
-    "company_logo": "https://example.com/logos/brightpath.png"
+    "company_logo": "https://i.ibb.co.com/BKqmFt2/bpc-transparent-YNqy-ED0-Va-Gc-Bqwk-X.jpg"
   },
   {
     "id": "4",
@@ -45,7 +45,7 @@
     "skills_needed": ["Physical Training", "Client Motivation", "Injury Prevention"],
     "company_address": "234 Wellness Avenue, Chicago, IL, 60601",
     "corporate_email": "trainers@fitnessfirst.com",
-    "company_logo": "https://example.com/logos/fitnessfirst.png"
+    "company_logo": "https://i.ibb.co.com/TtnTHsd/share-image.png"
   },
   {
     "id": "5",
@@ -57,7 +57,7 @@
     "skills_needed": ["Adobe Suite", "Creativity", "Time Management"],
     "company_address": "567 Design Street, Los Angeles, CA, 90001",
     "corporate_email": "designs@artistryco.com",
-    "company_logo": "https://example.com/logos/artistryco.png"
+    "company_logo": "https://i.ibb.co.com/HY82gx2/images.png"
   },
   {
     "id": "6",
@@ -69,7 +69,7 @@
     "skills_needed": ["Sales", "Negotiation", "Networking"],
     "company_address": "123 Market Plaza, Denver, CO, 80202",
     "corporate_email": "agents@safehomes.com",
-    "company_logo": "https://example.com/logos/safehomes.png"
+    "company_logo": "https://i.ibb.co.com/pnBrgLS/images.jpg"
   },
   {
     "id": "7",
@@ -81,7 +81,7 @@
     "skills_needed": ["SEO", "Analytics", "Content Creation", "Marketing"],
     "company_address": "890 Media Avenue, Austin, TX, 73301",
     "corporate_email": "jobs@digitalvision.com",
-    "company_logo": "https://example.com/logos/digitalvision.png"
+    "company_logo": "https://i.ibb.co.com/pnBrgLS/images.jpghttps://example.com/logos/digitalvision.png"
   },
   {
     "id": "8",
@@ -93,7 +93,7 @@
     "skills_needed": ["Customer Service", "Itinerary Planning", "Sales"],
     "company_address": "456 Adventure Way, Orlando, FL, 32801",
     "corporate_email": "careers@globetrotter.com",
-    "company_logo": "https://example.com/logos/globetrotter.png"
+    "company_logo": "https://i.ibb.co.com/mXCbBJK/images-1.png"
   },
   {
     "id": "9",
@@ -105,7 +105,7 @@
     "skills_needed": ["Logistics", "Inventory Management", "Leadership"],
     "company_address": "890 Greenway Drive, Portland, OR, 97201",
     "corporate_email": "hr@healthyharvest.com",
-    "company_logo": "https://example.com/logos/healthyharvest.png"
+    "company_logo": "https://i.ibb.co.com/hfS09TS/PNG-Logo.png"
   },
   {
     "id": "10",
@@ -117,7 +117,7 @@
     "skills_needed": ["Classroom Management", "Lesson Planning", "Patience"],
     "company_address": "123 Knowledge Lane, Boston, MA, 02108",
     "corporate_email": "teachers@edunext.com",
-    "company_logo": "https://example.com/logos/edunext.png"
+    "company_logo": "https://i.ibb.co.com/GHSTmF0/images-2.png"
   },
   {
     "id": "11",
@@ -129,7 +129,7 @@
     "skills_needed": ["Environmental Policy", "Project Management", "Team Collaboration"],
     "company_address": "890 Green St, San Francisco, CA, 94102",
     "corporate_email": "jobs@ecolife.com",
-    "company_logo": "https://example.com/logos/ecolife.png"
+    "company_logo": "https://i.ibb.co.com/8YL4Bw2/edunext-coaching-academy-deralakatte-derlakatte-mangalore-tutorials-for-be-brj78jkanr.jpg"
   },
   {
     "id": "12",
@@ -141,7 +141,7 @@
     "skills_needed": ["Machine Learning", "Data Visualization", "Big Data Tools"],
     "company_address": "567 Research Lane, Austin, TX, 73301",
     "corporate_email": "careers@quantumxlabs.com",
-    "company_logo": "https://example.com/logos/quantumxlabs.png"
+    "company_logo": "https://i.ibb.co.com/mbKKM2H/images-4.jpg"
   },
   {
     "id": "13",
@@ -153,7 +153,7 @@
     "skills_needed": ["Space Planning", "AutoCAD", "Client Communication"],
     "company_address": "456 Style Blvd, Portland, OR, 97201",
     "corporate_email": "design@urbannest.com",
-    "company_logo": "https://example.com/logos/urbannest.png"
+    "company_logo": "https://i.ibb.co.com/FxzYxrb/images-1.jpg"
   },
   {
     "id": "14",
@@ -165,7 +165,7 @@
     "skills_needed": ["Empathy", "Problem-Solving", "Active Listening"],
     "company_address": "345 Bright Ave, Atlanta, GA, 30301",
     "corporate_email": "counselors@brightfuture.com",
-    "company_logo": "https://example.com/logos/brightfuture.png"
+    "company_logo": "https://i.ibb.co.com/dc6L5wk/images-2.jpg"
   },
   {
     "id": "15",
@@ -177,7 +177,7 @@
     "skills_needed": ["Patient Care", "Critical Thinking", "Compassion"],
     "company_address": "890 Medical Park, Miami, FL, 33101",
     "corporate_email": "nursing@caremed.com",
-    "company_logo": "https://example.com/logos/caremed.png"
+    "company_logo": "https://i.ibb.co.com/M8TJt2n/images-3.jpg"
   }
 ]
 
