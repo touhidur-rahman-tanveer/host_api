@@ -22,7 +22,162 @@
     "company_address": "678 Nature Lane, Seattle, WA, 98101",
     "corporate_email": "hr@greenleaf.com",
     "company_logo": "https://example.com/logos/greenleaf.png"
+  },
+  {
+    "id": "3",
+    "company_name": "BrightPath Consulting",
+    "designation": "Business Analyst",
+    "job_requirements": "Bachelor's in Business Administration, 2+ years of business analysis experience.",
+    "location": "New York, NY",
+    "salary_range": "$80,000 - $100,000 per year",
+    "skills_needed": ["Data Analysis", "Problem Solving", "Communication"],
+    "company_address": "789 Enterprise Blvd, New York, NY, 10001",
+    "corporate_email": "analysts@brightpath.com",
+    "company_logo": "https://example.com/logos/brightpath.png"
+  },
+  {
+    "id": "4",
+    "company_name": "FitnessFirst Gyms",
+    "designation": "Fitness Trainer",
+    "job_requirements": "Certified fitness trainer with 2+ years of experience, CPR certification.",
+    "location": "Chicago, IL",
+    "salary_range": "$35,000 - $50,000 per year",
+    "skills_needed": ["Physical Training", "Client Motivation", "Injury Prevention"],
+    "company_address": "234 Wellness Avenue, Chicago, IL, 60601",
+    "corporate_email": "trainers@fitnessfirst.com",
+    "company_logo": "https://example.com/logos/fitnessfirst.png"
+  },
+  {
+    "id": "5",
+    "company_name": "Artistry Co.",
+    "designation": "Graphic Designer",
+    "job_requirements": "Bachelor's in Graphic Design, strong portfolio required.",
+    "location": "Los Angeles, CA",
+    "salary_range": "$60,000 - $80,000 per year",
+    "skills_needed": ["Adobe Suite", "Creativity", "Time Management"],
+    "company_address": "567 Design Street, Los Angeles, CA, 90001",
+    "corporate_email": "designs@artistryco.com",
+    "company_logo": "https://example.com/logos/artistryco.png"
+  },
+  {
+    "id": "6",
+    "company_name": "SafeHomes Realty",
+    "designation": "Real Estate Agent",
+    "job_requirements": "Licensed real estate agent with sales experience.",
+    "location": "Denver, CO",
+    "salary_range": "Commission-based, up to $100,000 per year",
+    "skills_needed": ["Sales", "Negotiation", "Networking"],
+    "company_address": "123 Market Plaza, Denver, CO, 80202",
+    "corporate_email": "agents@safehomes.com",
+    "company_logo": "https://example.com/logos/safehomes.png"
+  },
+  {
+    "id": "7",
+    "company_name": "Digital Vision Media",
+    "designation": "Content Strategist",
+    "job_requirements": "Proven experience in content strategy, strong analytical skills.",
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000 per year",
+    "skills_needed": ["SEO", "Analytics", "Content Creation", "Marketing"],
+    "company_address": "890 Media Avenue, Austin, TX, 73301",
+    "corporate_email": "jobs@digitalvision.com",
+    "company_logo": "https://example.com/logos/digitalvision.png"
+  },
+  {
+    "id": "8",
+    "company_name": "GlobeTrotter Travels",
+    "designation": "Travel Consultant",
+    "job_requirements": "3+ years of travel planning experience, knowledge of global destinations.",
+    "location": "Orlando, FL",
+    "salary_range": "$40,000 - $55,000 per year",
+    "skills_needed": ["Customer Service", "Itinerary Planning", "Sales"],
+    "company_address": "456 Adventure Way, Orlando, FL, 32801",
+    "corporate_email": "careers@globetrotter.com",
+    "company_logo": "https://example.com/logos/globetrotter.png"
+  },
+  {
+    "id": "9",
+    "company_name": "HealthyHarvest Foods",
+    "designation": "Supply Chain Manager",
+    "job_requirements": "Experience in logistics and supply chain management, strong organizational skills.",
+    "location": "Portland, OR",
+    "salary_range": "$75,000 - $95,000 per year",
+    "skills_needed": ["Logistics", "Inventory Management", "Leadership"],
+    "company_address": "890 Greenway Drive, Portland, OR, 97201",
+    "corporate_email": "hr@healthyharvest.com",
+    "company_logo": "https://example.com/logos/healthyharvest.png"
+  },
+  {
+    "id": "10",
+    "company_name": "EduNext Academy",
+    "designation": "Math Teacher",
+    "job_requirements": "Degree in Mathematics or Education, teaching certification preferred.",
+    "location": "Boston, MA",
+    "salary_range": "$50,000 - $70,000 per year",
+    "skills_needed": ["Classroom Management", "Lesson Planning", "Patience"],
+    "company_address": "123 Knowledge Lane, Boston, MA, 02108",
+    "corporate_email": "teachers@edunext.com",
+    "company_logo": "https://example.com/logos/edunext.png"
+  },
+  {
+    "id": "11",
+    "company_name": "EcoLife Products",
+    "designation": "Sustainability Officer",
+    "job_requirements": "Degree in Environmental Science, 3+ years in sustainability projects.",
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000 per year",
+    "skills_needed": ["Environmental Policy", "Project Management", "Team Collaboration"],
+    "company_address": "890 Green St, San Francisco, CA, 94102",
+    "corporate_email": "jobs@ecolife.com",
+    "company_logo": "https://example.com/logos/ecolife.png"
+  },
+  {
+    "id": "12",
+    "company_name": "QuantumX Labs",
+    "designation": "Data Scientist",
+    "job_requirements": "Master's in Data Science or similar, 2+ years in data analytics.",
+    "location": "Austin, TX",
+    "salary_range": "$100,000 - $120,000 per year",
+    "skills_needed": ["Machine Learning", "Data Visualization", "Big Data Tools"],
+    "company_address": "567 Research Lane, Austin, TX, 73301",
+    "corporate_email": "careers@quantumxlabs.com",
+    "company_logo": "https://example.com/logos/quantumxlabs.png"
+  },
+  {
+    "id": "13",
+    "company_name": "Urban Nest Interiors",
+    "designation": "Interior Designer",
+    "job_requirements": "Bachelor's in Interior Design, 5+ years of project experience.",
+    "location": "Portland, OR",
+    "salary_range": "$50,000 - $75,000 per year",
+    "skills_needed": ["Space Planning", "AutoCAD", "Client Communication"],
+    "company_address": "456 Style Blvd, Portland, OR, 97201",
+    "corporate_email": "design@urbannest.com",
+    "company_logo": "https://example.com/logos/urbannest.png"
+  },
+  {
+    "id": "14",
+    "company_name": "BrightFuture Schools",
+    "designation": "School Counselor",
+    "job_requirements": "Master's in Psychology or Education, 3+ years of counseling experience.",
+    "location": "Atlanta, GA",
+    "salary_range": "$55,000 - $65,000 per year",
+    "skills_needed": ["Empathy", "Problem-Solving", "Active Listening"],
+    "company_address": "345 Bright Ave, Atlanta, GA, 30301",
+    "corporate_email": "counselors@brightfuture.com",
+    "company_logo": "https://example.com/logos/brightfuture.png"
+  },
+  {
+    "id": "15",
+    "company_name": "CareMed Health",
+    "designation": "Registered Nurse",
+    "job_requirements": "RN license, 2+ years of hospital experience.",
+    "location": "Miami, FL",
+    "salary_range": "$60,000 - $80,000 per year",
+    "skills_needed": ["Patient Care", "Critical Thinking", "Compassion"],
+    "company_address": "890 Medical Park, Miami, FL, 33101",
+    "corporate_email": "nursing@caremed.com",
+    "company_logo": "https://example.com/logos/caremed.png"
   }
-  
-
 ]
+
