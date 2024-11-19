@@ -1,0 +1,12 @@
+{
+    "id": "13",
+    "company_name": "Urban Nest Interiors",
+    "designation": "Interior Designer",
+    "job_requirements": "Bachelor's in Interior Design, 5+ years of project experience.",
+    "location": "Portland, OR",
+    "salary_range": "$50,000 - $75,000 per year",
+    "skills_needed": ["Space Planning", "AutoCAD", "Client Communication"],
+    "company_address": "456 Style Blvd, Portland, OR, 97201",
+    "corporate_email": "design@urbannest.com",
+    "company_logo": "https://i.ibb.co.com/FxzYxrb/images-1.jpg"
+  }
