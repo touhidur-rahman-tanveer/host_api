@@ -1,0 +1,12 @@
+{
+    "id": "4",
+    "company_name": "FitnessFirst Gyms",
+    "designation": "Fitness Trainer",
+    "job_requirements": "Certified fitness trainer with 2+ years of experience, CPR certification.",
+    "location": "Chicago, IL",
+    "salary_range": "$35,000 - $50,000 per year",
+    "skills_needed": ["Physical Training", "Client Motivation", "Injury Prevention"],
+    "company_address": "234 Wellness Avenue, Chicago, IL, 60601",
+    "corporate_email": "trainers@fitnessfirst.com",
+    "company_logo": "https://i.ibb.co.com/TtnTHsd/share-image.png"
+  }
