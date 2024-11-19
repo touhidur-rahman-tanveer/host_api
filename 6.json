@@ -1,0 +1,12 @@
+{
+    "id": "6",
+    "company_name": "SafeHomes Realty",
+    "designation": "Real Estate Agent",
+    "job_requirements": "Licensed real estate agent with sales experience.",
+    "location": "Denver, CO",
+    "salary_range": "Commission-based, up to $100,000 per year",
+    "skills_needed": ["Sales", "Negotiation", "Networking"],
+    "company_address": "123 Market Plaza, Denver, CO, 80202",
+    "corporate_email": "agents@safehomes.com",
+    "company_logo": "https://i.ibb.co.com/pnBrgLS/images.jpg"
+  }
