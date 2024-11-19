@@ -1,0 +1,12 @@
+{
+    "id": "15",
+    "company_name": "CareMed Health",
+    "designation": "Registered Nurse",
+    "job_requirements": "RN license, 2+ years of hospital experience.",
+    "location": "Miami, FL",
+    "salary_range": "$60,000 - $80,000 per year",
+    "skills_needed": ["Patient Care", "Critical Thinking", "Compassion"],
+    "company_address": "890 Medical Park, Miami, FL, 33101",
+    "corporate_email": "nursing@caremed.com",
+    "company_logo": "https://i.ibb.co.com/M8TJt2n/images-3.jpg"
+  }
