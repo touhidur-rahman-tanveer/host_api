@@ -1,0 +1,12 @@
+
+ [ {
+    "company_name": "GreenLeaf Landscapes",
+    "designation": "Landscape Architect",
+    "job_requirements": "Degree in Landscape Architecture, 2+ years of experience in design projects.",
+    "location": "Seattle, WA",
+    "salary_range": "$60,000 - $75,000 per year",
+    "skills_needed": ["AutoCAD", "SketchUp", "Creativity", "Project Management"],
+    "company_address": "678 Nature Lane, Seattle, WA, 98101",
+    "corporate_email": "hr@greenleaf.com",
+    "company_logo": "https://example.com/logos/greenleaf.png"
+  }]
